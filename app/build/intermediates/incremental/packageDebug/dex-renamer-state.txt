@@ -1,0 +1,7 @@
+#Wed Sep 21 23:53:43 CDT 2016
+base.0=C\:\\Users\\Zarmbinski\\Documents\\Ryan's Homework\\Compsci\\Pathfinder\\Pathfinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5dc042e12f6c83255353ba6c25bb5400acd177f4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Zarmbinski\\Documents\\Ryan's Homework\\Compsci\\Pathfinder\\Pathfinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ce06465ab00e20fb7e17a7d753ba3f66a534d391\\classes.dex
+base.1=C\:\\Users\\Zarmbinski\\Documents\\Ryan's Homework\\Compsci\\Pathfinder\\Pathfinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ce06465ab00e20fb7e17a7d753ba3f66a534d391
+file.0=C\:\\Users\\Zarmbinski\\Documents\\Ryan's Homework\\Compsci\\Pathfinder\\Pathfinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5dc042e12f6c83255353ba6c25bb5400acd177f4\\classes.dex
